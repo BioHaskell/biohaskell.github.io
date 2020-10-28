@@ -14,12 +14,7 @@ keywords: "haskell, bioinformatics"
 Here you can find information on using the [Haskell](http://haskell.org/) programming language to solve bioinformatics problems.
 
 
-There is a [Bioinformatics](http://hackage.haskell.org/packages/archive/pkg-list.html#cat:Bioinformatics) section on HackageDB, containing various bioinformatics [programs](Applications) and [libraries](Libraries) written in Haskell.
-
-Former _biohaskell@biohaskell.org_ mailing list is no longer active.
-We suggest that you talk with us on Gitter or file issue here.
-
-Participating in a **Google summer of code** project could be a good way to get involved, more information is [here](Google_Summer_of_Code).
+There is a [Bioinformatics](http://hackage.haskell.org/packages/archive/pkg-list.html#cat:Bioinformatics) section on HackageDB, containing various bioinformatics [programs](https://github.com/BioHaskell/biohaskell.github.io/wiki/Applications) and [libraries](https://github.com/BioHaskell/biohaskell.github.io/wiki/Libraries) written in Haskell.
 
 # What is Haskell?
 
@@ -35,6 +30,17 @@ led to tremendous amounts of data on genes and genomes, proteins, and complex in
 Biohaskell - the name, the mailing list, the logo, this wiki - is intended as an umbrella for software that is implemented in Haskell for working with biological data.
 If you are developing software that fits the bill, you are by definition a Biohaskell developer, and encouraged to make use of those resources, and in particular, to subscribe to the mailing list.  Welcome!
 
-# [Citing BioHaskell](Citing)
+# [Citing BioHaskell](https://github.com/BioHaskell/biohaskell.github.io/wiki/Citing)
 
-# [Contributors](Contributors)
+# [Contributors](https://github.com/BioHaskell/biohaskell.github.io/wiki/Contributors)
+
+# History
+
+This special interest group was originally managed by Ketil Malde as a [wiki](https://github.com/BioHaskell/biohaskell.github.io/wiki/)
+and has since be moved to GitHub.
+
+Former _biohaskell@biohaskell.org_ mailing list is no longer active.
+We suggest that you talk with us on Gitter or file issue here.
+
+Information about **Google summer of code** project could be a good way to get involved, more information is [here](https://github.com/BioHaskell/biohaskell.github.io/wiki/Google_Summer_of_Code).
+

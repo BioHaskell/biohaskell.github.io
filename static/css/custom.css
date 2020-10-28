@@ -1,0 +1,32 @@
+@import url("screen.css"); /* default gitit screen styles */
+@import url("hk-pyg.css"); /* for syntax highlighting */
+
+/* Put your custom style modifications here: */
+
+/* Need to override this from the defaults:
+
+h1 > a:link, h1 > a:active, h1 > a:hover, h1 > a:focus, h1 > a:visited,
+h2 > a:link, h2 > a:active, h2 > a:hover, h2 > a:focus, h2 > a:visited,
+h3 > a:link, h3 > a:active, h3 > a:hover, h3 > a:focus, h3 > a:visited,
+h4 > a:link, h4 > a:active, h4 > a:hover, h4 > a:focus, h4 > a:visited,
+h5 > a:link, h5 > a:active, h5 > a:hover, h5 > a:focus, h5 > a:visited,
+h6 > a:link, h6 > a:active, h6 > a:hover, h6 > a:focus, h6 > a:visited {
+        color: black; text-decoration: none; }
+*/
+
+h3 { font-style: italic }
+
+h1 > a:link, h2 > a:link, h3 > a:link, h4 > a:link, h5 > a:link { color: #36c; }
+h1 > a:active, h2 > a:active, h3 > a:active, h4 > a:active, h5 > a:active { color: #36c; }
+h1 > a:visited, h2 > a:visited, h3 > a:visited, h4 > a:visited, h5 > a:visited { color: purple; }
+h1 > a:hover, h2 > a:hover, h3 > a:hover, h4 > a:hover, h5 > a:hover { color: #c33; }
+h1 > a:focus, h2 > a:focus, h3 > a:focus, h4 > a:focus, h5 > a:focus { color: #36c; }
+
+a:visited { color: purple; }
+
+pre {
+        padding: 10px 15px;
+        margin: 5px 0 15px;
+        border-left: 5px;
+        overflow : auto;
+}

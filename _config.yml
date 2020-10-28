@@ -1,0 +1,11 @@
+title: "BioHaskell"
+name:  "BioHaskell.org"
+description: "Open source libraries for Haskell programming language"
+exclude:
+  - ".gitignore"
+  - ".jekyll-cache"
+theme: jekyll-theme-cayman
+plugins:
+  - jekyll-seo-tag
+image:
+  path: static/img/logo.png
